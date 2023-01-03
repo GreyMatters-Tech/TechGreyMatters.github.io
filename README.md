@@ -14,42 +14,41 @@
 <img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
 </p>
 
-<p align="center">
+<h3 align="center">
 <h3><b><i>🏆 Github Statistics :-</i></b></h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Greymattersbot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greymattersbot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Greymattersbot&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/Greymattersbot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Greymattersbot&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-</p>
+</h3>
 
-<p align="center">
+<h3 align="center">
 <h3><b><i>Join us on Telegram :-</i></b></h3>
 <a href="https://www.telegram.dog/GreyMatter_Bots">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/GreyMatters_Bots_Discussion">
   <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
-</p>
+</h3>
 
-<p align="center">
+<h3 align="center">
 <h3><b><i>Our Bot List 🤖 :-</i></b></h3>
 <a href="https://t.me/+IezzVbvzlKxlODY1">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">
   </a>
-</p>
+</h3>
 
-<p align="center">
+<h3 align="center">
 <h3><b><i>Subscribe to Our YouTube Channels👇</i></b></h3>
 <a href="https://www.youtube.com/@GreyMattersYT">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersYT"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
-</p>
-
-<p align="center">
+</h3>
+<h3 align="center">
 <a href="https://www.youtube.com/@GreyMattersBot">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
-</p>
+</h3>
 
 <h3 align="center">
   <b><i>Languages, Tools, clouds and familiar os👇</i></b>
