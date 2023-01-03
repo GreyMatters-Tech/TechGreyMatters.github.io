@@ -32,7 +32,7 @@
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">
   </a></h3>
 
-<h3 align="center"><b><i>Subscribe to Our YouTube Channels👇</i></b></h3>
+<h3 align="center"><b><i>Subscribe to Our YouTube Channels:-</i></b></h3>
 <h3 align="center">
 <a href="https://www.youtube.com/@GreyMattersYT">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
@@ -43,7 +43,7 @@
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a></h3>
 
 <h3 align="center">
-  <b><i>Languages, Tools, clouds and familiar os👇</i></b>
+  <b><i>Languages, Tools, clouds and familiar os:-</i></b>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
