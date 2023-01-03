@@ -33,7 +33,7 @@
 <h3><b><i>Our Bot List 🤖 :-</i></b></h3>
 <p align="center">
 <a href="https://t.me/+IezzVbvzlKxlODY1">
-    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">
 
 <h3><b><i>Subscribe to Our YouTube Channels👇</i></b></h3>
 <p align="centre">
