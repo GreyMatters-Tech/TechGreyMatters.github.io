@@ -24,8 +24,6 @@
 
 <p align="center">
 <h3><b><i>Join us on Telegram :-</i></b></h3>
-</p>
-<p align="center">
 <a href="https://www.telegram.dog/GreyMatter_Bots">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/GreyMatters_Bots_Discussion">
@@ -35,7 +33,6 @@
 
 <p align="center">
 <h3><b><i>Our Bot List 🤖 :-</i></b></h3>
-<p align="center">
 <a href="https://t.me/+IezzVbvzlKxlODY1">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">
   </a>
