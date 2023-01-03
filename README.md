@@ -9,12 +9,12 @@
 <li> 🤐 <i>Aim : To get what i love</i></li>
 
 <br>
-<p align="centre">
+<p align="center">
 <img src="https://profile-counter.glitch.me/{Greymattersbot}/count.svg" alt="Greymattersbot :: Visitor's Count" />
 <img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
 </p>
 
-<p align="centre">
+<p align="center">
 <h3><b><i>🏆 Github Statistics :-</i></b></h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Greymattersbot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greymattersbot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
@@ -37,12 +37,12 @@
   </a>
 
 <h3><b><i>Subscribe to Our YouTube Channels👇</i></b></h3>
-<p align="centre">
+<p align="center">
 <a href="https://www.youtube.com/@GreyMattersYT">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersYT"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 
-<p align="centre">
+<p align="center">
 <a href="https://www.youtube.com/@GreyMattersBot">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
