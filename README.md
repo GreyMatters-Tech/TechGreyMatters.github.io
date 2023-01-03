@@ -24,6 +24,7 @@
 
 <p align="center">
 <h3><b><i>Join us on Telegram :-</i></b></h3>
+</p>
 <p align="center">
 <a href="https://www.telegram.dog/GreyMatter_Bots">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
