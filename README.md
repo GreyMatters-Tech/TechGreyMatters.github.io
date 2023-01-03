@@ -1,4 +1,4 @@
-# <h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+GreyMatter's+Profile;I+am+a+beginer+Entrepreneur;Learning+Python+...;I+am+a+Pharmacist+...;Subscribe+GreyMatter's+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
+# <h3 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+GreyMatter's+Profile;I+am+a+beginer+Entrepreneur;Learning+Python+...;I+am+a+Pharmacist+...;Subscribe+GreyMatter's+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
 <h3 align="center"><b><i>🤠 About me :-</i></b>
 <li> 🇮🇳 <i>Resident of India</i></li>
