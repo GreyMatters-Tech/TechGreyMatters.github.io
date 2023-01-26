@@ -3,7 +3,6 @@
 <h3 align="center"><b><i>🤠 About me :-</i></b>
 <br>
 <br>
-<li> 🇮🇳 <i>Resident of India</i></li>
 <li> 😇 <i>Indian</i></li>
 <li> ❤️ <i>Love Learning Internet of Things</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
