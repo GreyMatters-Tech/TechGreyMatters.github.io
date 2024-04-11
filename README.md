@@ -50,7 +50,7 @@
 </p>
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
-<a href="https://greymatterstech.com/Support-Me"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/GreyMatter's" /></a>
+<a href="https://greymatterstech.com/Support-Me"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/GreyMatter's Tech" /></a>
 
 <br>
 <br>
